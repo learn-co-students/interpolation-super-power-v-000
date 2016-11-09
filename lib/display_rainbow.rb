@@ -2,8 +2,9 @@ def display_rainbow(input)
 
 array = []
 array = input
+array1 = ["R","O","Y","G","B","I","V"]
 
-puts "R: #{array[0]}, O: #{array[1]}, Y: #{array[2]}, G: #{array[3]}, B: #{array[4]}, I: #{array[5]}, V: #{array[6]}"
+puts "#{array1[0]}: #{array[0]}, #{array1[1]}: #{array[1]}, #{array1[2]}: #{array[2]}, #{array1[3]}: #{array[3]}, #{array1[4]}: #{array[4]}, #{array1[5]}: #{array[5]}, #{array1[6]}: #{array[6]}"
 puts "The first color is: #{input[0]}"
 puts "The second color is: #{input[1]}"
 puts "The third color is: #{input[2]}"
