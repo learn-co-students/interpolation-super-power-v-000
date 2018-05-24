@@ -1,0 +1,9 @@
+R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet
+
+#display_rainbow
+  accepts one argument
+  prints out the colors of the rainbow correctly when passed in in order
+
+Finished in 0.01515 seconds (files took 0.13911 seconds to load)
+2 examples, 0 failures
+
