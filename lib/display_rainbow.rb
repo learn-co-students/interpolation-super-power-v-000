@@ -19,4 +19,3 @@ def #display_rainbow(colors)
   puts "The seventh color in the rainbow is: #{colors[6]}"
    
  end
-
