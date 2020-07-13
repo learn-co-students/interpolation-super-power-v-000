@@ -1,0 +1,5 @@
+#colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+def display_rainbow(colors) 
+  puts "Colors #[0,1,2]"
+#colors['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+end
